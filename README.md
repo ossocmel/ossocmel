@@ -1,6 +1,3 @@
-
-![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/cf2bf89b-9328-475a-ba53-ae2c40d8082c)
-
 ## Hi there 👋
 
 <!--
