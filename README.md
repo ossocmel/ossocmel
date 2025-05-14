@@ -1,3 +1,6 @@
+
+![logo_transparent](https://github.com/user-attachments/assets/d42b2daa-dba3-431b-ae5d-fbe845b59373)
+
 ## Hi there 👋
 
 <!--
